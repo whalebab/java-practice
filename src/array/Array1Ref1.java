@@ -12,6 +12,7 @@ public class Array1Ref1 {
         students[2] = 70;
         students[3] = 60;
         students[4] = 50;
+        //students[5] = 40; // java.lang.ArrayIndexOutOfBoundsException 예외 발생
 
         //변수 값 사용
         System.out.println("학생1 점수: " + students[0]);

@@ -13,9 +13,10 @@ public class Array1Ref2 {
         students[3] = 60;
         students[4] = 50;
 
-        //변수 값 사용
+        // 변수 값 사용
         for (int i = 0; i < students.length; i++) {
-            System.out.println("학생" + (i + 1) + " 점수: " + students[i]);
+            // students.length : 배열의 길이
+            System.out.println("학생" + (i + 1) + " 점수 : " + students[i]);
         }
     }
 }

@@ -17,7 +17,7 @@ public class ArrayDi2 {
             for (int column = 0; column < 3; column++) {
                 System.out.print(arr[row][column] + " ");
             }
-            System.out.println();//한 행이 끝나면 라인을 변경한다.
+            System.out.println(); // 한 행이 끝나면 라인을 변경한다.
         }
     }
 }
