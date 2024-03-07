@@ -1,4 +1,4 @@
-package static1;
+package staticVariable;
 
 public class Data2 {
     public String name;

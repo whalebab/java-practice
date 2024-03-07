@@ -1,4 +1,4 @@
-package static1;
+package staticVariable;
 
 public class DataCountMain2 {
     public static void main(String[] args) {

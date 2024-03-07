@@ -1,6 +1,4 @@
-package static1;
-
-import memory.Data;
+package staticVariable;
 
 public class DataCountMain3 {
     public static void main(String[] args) {
