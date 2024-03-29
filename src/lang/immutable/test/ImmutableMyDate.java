@@ -33,10 +33,6 @@ public class ImmutableMyDate {
 
     @Override
     public String toString() {
-        return "ImmuableMyDate{" +
-                "year=" + year +
-                ", month=" + month +
-                ", day=" + day +
-                '}';
+        return year + "-" + month + "-" + day;
     }
 }
