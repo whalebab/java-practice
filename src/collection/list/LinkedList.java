@@ -1,6 +1,6 @@
 package collection.list;
 
-public class MyLinkedList<E> implements MyList<E> {
+public class LinkedList<E> implements MyList<E> {
 
     private Node<E> first;
     private int size = 0;
