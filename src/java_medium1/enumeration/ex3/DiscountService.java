@@ -1,6 +1,6 @@
 package java_medium1.enumeration.ex3;
 
-import static enumeration.ex3.Grade.*;
+import static java_medium1.enumeration.ex3.Grade.*;
 
 public class DiscountService {
     public int discount(Grade classGrade, int price) {
